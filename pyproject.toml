@@ -1,0 +1,13 @@
+[build-system]
+requires = ["setuptools>=42", "wheel", "build", "ninja", "pybind11", "torch>=1.8.0"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "mcsi"
+version = "2025.0.0"
+authors = [{name = "Charles James", email = "charlespencerjames@gmail.com"}]
+description = "Calculates skewness of a distribution based on the mean, Mean-Centered Skewness Index (MCSI)"
+readme = "README.md"
+license = {text = "MIT License"}
+dependencies = ["torch>=1.8.0"]
+
