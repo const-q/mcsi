@@ -15,7 +15,9 @@ The **Mean-Centered Skewness Index (MCSI)** is a statistical operator for analyz
 ## Installation
 To use the `mcsi` module, you can install it directly via pip:
 
-```pip install mcsi```
+```shell
+pip install mcsi
+```
 
 ---
 
