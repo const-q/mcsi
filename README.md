@@ -12,6 +12,20 @@ The **Mean-Centered Skewness Index (MCSI)** is a statistical operator for analyz
 
 ---
 
+## Installation
+To use the `mcsi` module, you can install it directly via pip:
+
+```pip install mcsi```
+
+---
+
+## Usage
+# Importing the Module
+To use the `mcsi` function in your python code, import the module as follows:
+```python
+import mcsi
+```
+
 ## Mathematical Representation
 
 Let $\mathbf{X} \in \mathbb{R}^{n_1 \times n_2 \times \dots \times n_k}$ represent an input tensor. The **Mean-Centered Skewness Index** for dimension(s) $d$ is defined as:
