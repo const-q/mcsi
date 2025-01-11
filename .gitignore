@@ -24,3 +24,6 @@ env/
 
 # Ignore metadata
 *.egg-info/
+
+# Ignore PyPI credential files
+.pypirc
