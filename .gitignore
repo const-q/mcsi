@@ -1,0 +1,26 @@
+# Ignore Python bytecode
+*.pyc
+__pycache__/
+
+# Ignore compiled C++ extension artifacts
+*.pyd
+*.so
+*.o
+*.dll
+*.exp
+*.lib
+
+# Ignore build directories
+build/
+dist/
+
+# Ignore virtual environment
+env/
+.venv/
+
+# Ignore temporary files
+*.log
+*.tmp
+
+# Ignore metadata
+*.egg-info/
