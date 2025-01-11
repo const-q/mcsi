@@ -26,6 +26,7 @@ Where:
 - $N(\mathbf{X}, d)$: Total number of elements in $\mathbf{X}$ along $d$.
 
 The **mean** along dimension(s) $d$ is given by:
+
 $$
 \mu(\mathbf{X}, d) = \frac{1}{N(\mathbf{X}, d)} \sum_{i \in d} X_i
 $$
